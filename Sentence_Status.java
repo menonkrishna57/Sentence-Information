@@ -1,7 +1,7 @@
 
 /**
  * This Program on execution will print the number of words, sentences
- * @author Kroggieboy57
+ * @author menonkrishna57
  * @version 1
  */
 import java.util.Scanner;
